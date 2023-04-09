@@ -1,14 +1,17 @@
 ![Header image](./img/githubNeon.png)
 ---
-### | Hi there, I'm Dimitris aka PERception 👋
+
+<samp>
+  
+### // Hi there, I'm Dimitris aka PERception 👋
 
 #
 
-### | Interested in Full Stack Development, Cybersecurity & Graphic Design
+### // Interested in Full Stack Development, Cybersecurity & Graphic Design
 
 #
 
-### | Currently studying
+### // Currently studying
 
 #### • Business Administration @ [NKUA](https://en.uoa.gr/)
 
@@ -16,7 +19,7 @@
 
 #
 
-### | Languages & Frameworks
+### // Languages && Frameworks
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
@@ -32,7 +35,7 @@
 
 #
 
-### | Tools
+### // Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -45,6 +48,8 @@
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <br>
+
+</samp>
 
 ---
 
