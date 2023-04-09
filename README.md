@@ -3,23 +3,23 @@
 
 <samp>
   
-### // Hi there, I'm Dimitris aka PERception 👋
+# // Hi there, I'm Dimitris aka PERception 👋
 
-#
+ <br>
+  
+## // Interested in Full Stack Development, Cybersecurity & Graphic Design
+  
+<br>
 
-### // Interested in Full Stack Development, Cybersecurity & Graphic Design
+## // Currently studying
 
-#
+### • Business Administration @ [NKUA](https://en.uoa.gr/)
 
-### // Currently studying
+### • Coding Factory @ [AUEB](https://codingfactory.aueb.gr/)
 
-#### • Business Administration @ [NKUA](https://en.uoa.gr/)
+<br>
 
-#### • Coding Factory @ [AUEB](https://codingfactory.aueb.gr/)
-
-#
-
-### // Languages && Frameworks
+## // Languages && Frameworks
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
@@ -30,12 +30,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> <br>
+
 <br>
 
-#
-
-### // Tools
+## // Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
