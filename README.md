@@ -1,3 +1,4 @@
+![Header image](./img/githubNeon.png)
 ---
 ### | Hi there, I'm Dimitris aka PERception 👋
 
