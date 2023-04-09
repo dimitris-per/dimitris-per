@@ -3,7 +3,15 @@
 
 #
 
-### | Interested in Full Stack Development, Cybersecurity & Graphic Design.
+### | Interested in Full Stack Development, Cybersecurity & Graphic Design
+
+#
+
+### | Currently studying
+
+#### • Business Administration @ [NKUA](https://en.uoa.gr/)
+
+#### • Coding Factory @ [AUEB](https://codingfactory.aueb.gr/)
 
 #
 
@@ -17,7 +25,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
 <br>
 
@@ -38,3 +46,4 @@
 <br>
 
 ---
+
