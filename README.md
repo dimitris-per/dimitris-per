@@ -29,11 +29,8 @@
 <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="padding-right:10px;" />
-<<<<<<< HEAD
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> <br>
-=======
 
->>>>>>> 2b5da95933120658a9a856931203b45bb2d25fe2
 <br>
   
 ### • Confident in
