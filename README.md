@@ -4,11 +4,11 @@
 
 <samp>
   
-# // Hi there, I'm Dimitris aka PERception 👋
+# // Hi there, I'm Dimitris aka PERception. 👋
 
 <br>
   
-## // Interested in Full Stack Development, Cybersecurity & Graphic Design
+## // Interested in Full Stack Development, Cybersecurity & Graphic Design.
   
 <br>
 
