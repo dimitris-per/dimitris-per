@@ -57,9 +57,6 @@
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" /> <br>
 <br>
 
-## // Latest Contribution
-### • Greek Localization for [GrandPerspective](https://grandperspectiv.sourceforge.net/) (Disk Usage Visualization App)
-
 </samp>
 
 ---
