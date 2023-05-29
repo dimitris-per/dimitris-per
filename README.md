@@ -11,7 +11,7 @@
 ## // Interested in Full Stack Development, Cybersecurity & Graphic Design.
   
 <br>
-
+<!--
 ## // Currently studying
 
 ### • Business Administration @ [NKUA](https://en.uoa.gr/)
@@ -19,7 +19,8 @@
 ### • Coding Factory @ [AUEB](https://codingfactory.aueb.gr/)
 
 <br>
-
+-->
+  
 ## // Languages && Frameworks
 
 ### • Currently learning
@@ -42,7 +43,7 @@
 <img align="left" alt="SQL" width="26px" src="/img/SQL.png" style="padding-right:10px;" /> <br>
 <br>
 
-## // Tools I use
+## // Tools
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -50,7 +51,7 @@
 <img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="/img/AzureDataStudio.png" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Kali" width="26px" src="/img/Kali.png" style="padding-right:10px;" />
 <img align="left" alt="Burp" width="26px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />
