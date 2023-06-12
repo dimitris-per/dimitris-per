@@ -1,7 +1,3 @@
-![Header image](./img/PerGithub.png)
-
----
-
 <samp>
   
 # // Hi there, I'm Dimitris aka PERception. 👋
