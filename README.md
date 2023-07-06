@@ -4,7 +4,7 @@
 
 <br>
   
-# // Interested in Full Stack Development, Cybersecurity & Graphic Design.
+# // Interested mostly in Cybersecurity & Graphic Design but currently into Full-Stack development.
   
 <br>
 <!--
